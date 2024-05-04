@@ -2,7 +2,7 @@ import { SendHorizontal } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 import { ChangeEvent, KeyboardEvent, useCallback, useEffect, useRef, useState } from "react";
 
-import { cn } from "@/lib/utils";
+import { cn, getCurrentFormattedDate } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import { Message } from "@/models/Message.ts";
 import { Textarea } from "@/components/ui/textarea";
@@ -24,13 +24,11 @@ const ChatBottomBar = (props: ChatBottomBarProps) => {
 
 	const handleSend = useCallback(() => {
 		if (message.trim()) {
-			const currentDate = new Date();
-
 			const newMessage: Message = {
 				id: message.length + 1,
 				from: UserType.USER,
 				message: message.trim(),
-				date: `${currentDate.getHours()}:${currentDate.getMinutes()}`
+				date: getCurrentFormattedDate()
 			};
 			sendMessage(newMessage);
 			setMessage("");

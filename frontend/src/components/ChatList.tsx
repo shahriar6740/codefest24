@@ -58,20 +58,26 @@ const ChatList = (props: ChatListProps) => {
 								"justify-start": row.from === UserType.USER,
 								"justify-end": row.from === UserType.BOT
 							})}>
-								<div className="flex flex-col items-center">
+								{row.from === UserType.USER && (
 									<Avatar className="flex justify-center items-center">
-										{
-											row.from === UserType.USER ?
-												<User size={28} /> : <Bot size={28} />
-										}
+										<User size={28} />
 									</Avatar>
-									<span>
+								)}
+								<span
+									className={cn("p-3 rounded-lg text-base max-w-lg flex flex-col justify-center gap-y-2 shadow-md", {
+										"bg-teal-50": row.from === UserType.USER,
+										"bg-accent": row.from === UserType.BOT
+									})}>
+                  {row.message}
+									<span className="text-xs text-muted-foreground">
 										{row.date}
 									</span>
-								</div>
-								<span className={cn("bg-accent p-3 rounded-lg text-base max-w-lg flex items-center", {})}>
-                  {row.message}
                 </span>
+								{row.from === UserType.BOT && (
+									<Avatar className="flex justify-center items-center">
+										<Bot size={28} />
+									</Avatar>
+								)}
 							</div>
 						</motion.div>
 					))}
