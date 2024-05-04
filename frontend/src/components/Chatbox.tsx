@@ -11,12 +11,7 @@ type ChatBoxProps = {
 
 const ChatBox = (props: ChatBoxProps) => {
 	const { messages } = props;
-	const [messagesState, setMessages] = React.useState<Message[]>(messages ?? [{
-		message: "hello world",
-		date: getCurrentFormattedDate(),
-		id: 0,
-		from: UserType.BOT
-	}]);
+	const [messagesState, setMessages] = React.useState<Message[]>(messages ?? []);
 	const [isLoading, setIsLoading] = useState(false);
 
 	const sendMessage = async (userPrompt: Message) => {

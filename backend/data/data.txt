@@ -1,0 +1,333 @@
+University Admission
+There are a total of 10 departments at the university that will admit graduate students. Admission criteria for
+each department are mentioned below:
+Admission Criteria
+Computer Science:
+A bachelor's degree in computer science or a related field from an accredited institution.
+Minimum GPA of 3.0 on a 4.0 scale in undergraduate coursework.
+GRE scores (applicable).
+Letters of recommendation highlighting the applicant's academic and/or professional achievements.
+Statement of purpose outlining the applicant's career goals and research interests in computer science.
+Relevant work experience or research experience in the field may be considered.
+Business Administration (MBA)
+A bachelor's degree from an accredited institution.
+Minimum GPA of 3.0 on a 4.0 scale in undergraduate coursework.
+GMAT or GRE scores.
+Professional resume demonstrating relevant work experience.
+Letters of recommendation from academic or professional references.
+Statement of purpose outlining career objectives and reasons for pursuing an MBA.
+Public Health
+A bachelor's degree in public health, health sciences, or a related field.
+Minimum GPA of 3.2 on a 4.0 scale in undergraduate coursework.
+GRE scores (not applicable).
+Statement of purpose detailing the applicant's interest in public health and career goals.
+Letters of recommendation from academic or professional references.
+Relevant work experience in public health or healthcare settings may be considered.
+Electrical Engineering
+A bachelor's degree in electrical engineering or a closely related field from an accredited institution.
+Minimum GPA of 3.0 on a 4.0 scale in undergraduate coursework.
+GRE scores (if applicable).
+Letters of recommendation from academic or professional references.
+Statement of purpose outlining the applicant's research interests and career goals in electrical engineering.
+Relevant research experience or projects may be considered.
+Creative Writing
+A bachelor's degree in English, creative writing, or a related field.
+Submission of a portfolio demonstrating writing proficiency (e.g., samples of creative work, publications, etc.).
+Letters of recommendation from faculty or published authors familiar with the applicant's work.
+Statement of purpose discussing the applicant's writing background, influences, and literary aspirations.
+GRE scores (if required by the program).
+Relevant writing experience or publications may be considered.Environmental Science
+A bachelor's degree in environmental science, biology, chemistry, or a related field.
+Minimum GPA of 3.0 on a 4.0 scale in undergraduate coursework.
+GRE scores (if applicable).
+Letters of recommendation highlighting the applicant's academic and/or research experience.
+Statement of purpose detailing the applicant's research interests and career goals in environmental science.
+Relevant research experience or internships may be considered.
+International Relations:
+A bachelor's degree in international relations, political science, or a related field.
+Minimum GPA of 3.2 on a 4.0 scale in undergraduate coursework.
+GRE scores (if applicable).
+Letters of recommendation from academic or professional references.
+Statement of purpose discussing the applicant's interest in international relations, relevant experiences, and
+career goals.
+Proficiency in a second language may be preferred.
+Mechanical Engineering
+A bachelor's degree in mechanical engineering or a closely related field from an accredited institution.
+Minimum GPA of 3.0 on a 4.0 scale in undergraduate coursework.
+GRE scores (if applicable).
+Letters of recommendation from academic or professional references.
+Statement of purpose outlining the applicant's research interests and career objectives in mechanical
+engineering.
+Relevant research experience or projects may be considered.
+Psychology (Clinical Psychology)
+A bachelor's degree in psychology or a related field.
+Minimum GPA of 3.5 on a 4.0 scale in psychology coursework.
+GRE scores (including the psychology subject test if applicable).
+Letters of recommendation from faculty or supervisors familiar with the applicant's academic and/or research
+abilities.
+Statement of purpose discussing the applicant's interest in clinical psychology, relevant experiences, and career
+aspirations.
+Clinical or research experience in psychology settings may be preferred.
+Data Science:
+A bachelor's degree in computer science, statistics, mathematics, or a related field.
+Minimum GPA of 3.0 on a 4.0 scale in undergraduate coursework.
+GRE scores (if applicable).
+Strong quantitative and programming skills demonstrated through coursework or professional experience.
+Letters of recommendation from academic or professional references.
+Statement of purpose outlining the applicant's interest in data science, relevant experiences, and career goals.
+Previous coursework or projects in data analysis or machine learning may be considered.
+Tuition Fees, payment Deadline and sample courses for the graduate studyComputer Science:
+●
+●
+●
+Tuition Fees: $20,000 per year
+Payment Deadline: August 1st
+Sample Courses: Algorithms, Database Systems, Machine Learning, Software Engineering
+Business Administration (MBA)
+●
+●
+●
+Tuition Fees: $30,000 per year
+Payment Deadline: July 15th
+Sample Courses: Strategic Management, Financial Analysis, Marketing Strategy, Leadership
+Development
+Public Health
+●
+●
+●
+Tuition Fees: $25,000 per year
+Payment Deadline: July 30th
+Sample Courses: Epidemiology, Health Policy and Management, Biostatistics, Global Health
+Electrical Engineering
+●
+●
+●
+Tuition Fees: $22,000 per year
+Payment Deadline: August 5th
+Sample Courses: Digital Signal Processing, Power Systems Engineering, Semiconductor Devices,
+Control Systems
+Creative Writing:
+●
+●
+●
+Tuition Fees: $18,000 per year
+Payment Deadline: August 10th
+Sample Courses: Fiction Writing Workshop, Poetry Workshop, Screenwriting, Creative Nonfiction
+Environmental Science:
+●
+●
+●
+Tuition Fees: $23,000 per year
+Payment Deadline: July 25th
+Sample Courses: Environmental Policy, Conservation Biology, Climate Change Science,
+Environmental Impact Assessment
+International Relations:
+●
+●
+●
+Tuition Fees: $28,000 per year
+Payment Deadline: August 15th
+Sample Courses: International Security, Global Governance, Diplomatic History, Conflict Resolution
+Mechanical Engineering:
+●
+●
+●
+Tuition Fees: $24,000 per year
+Payment Deadline: July 20th
+Sample Courses: Thermodynamics, Fluid Mechanics, Mechanical Design, Robotics
+Psychology (Clinical Psychology):
+●
+●
+●
+Tuition Fees: $26,000 per year
+Payment Deadline: August 3rd
+Sample Courses: Abnormal Psychology, Counseling Techniques, Psychopathology,
+Neuropsychological AssessmentData Science:
+●
+●
+●
+Tuition Fees: $27,000 per year
+Payment Deadline: July 28th
+Sample Courses: Data Mining, Statistical Learning, Big Data Analytics, Data Visualization
+Orientation and Housing:
+As we welcome our incoming graduate students to the university, we want to ensure a smooth transition into
+academic life. The first semester is an exciting time filled with orientation activities, coursework, and
+opportunities to engage with peers and faculty members.
+Orientation days, scheduled between August 18th and 24th, will provide essential information about university
+resources, academic expectations, and campus life. Additionally, students will embark on a journey of learning
+and discovery through a diverse range of coursework, workshops, and seminars tailored to their respective fields
+of study.
+We understand the importance of securing comfortable housing accommodations. Our university offers
+dormitory facilities with amenities such as shared kitchens, Wi-Fi access, and entertainment systems. However,
+please note that dormitory allocation is based on admission date, and availability is limited to 200 seats across 4
+dorms. Dormitory fees of $3,000 per semester are payable by August 15th to secure accommodation for the
+semester.
+We encourage all students to actively participate in orientation activities, engage with their peers, and take
+advantage of the resources available to support their academic and personal growth. We wish you a successful
+and fulfilling semester ahead. Welcome to our university community!
+Health Insurance Policy
+At our university, the health and well-being of our students are of paramount importance. To ensure that all
+students have access to essential healthcare services, we require each student to enroll in our comprehensive
+health insurance policy valued at $500 for the academic year. This policy provides coverage for basic medical
+needs, including doctor visits, prescription medications, and minor surgical procedures. In the event of any
+health concerns or medical needs, students can seek medical attention from healthcare providers within our
+network, and the costs will be covered by the insurance policy up to the specified limits.
+It's important to note that while our health insurance policy offers coverage for a wide range of medical services,
+there may be instances where students encounter complicated health conditions or require specialized treatments
+beyond the scope of the policy. In such cases, students may be responsible for covering the additional costs
+incurred for their healthcare needs. Additionally, our health insurance policy does not extend coverage for dental
+or vision-related expenses, and students are encouraged to explore alternative options for these specific
+healthcare needs.
+In recognition of the significant impact of mental health on overall well-being, our health insurance policy
+includes provisions for mental health support services. Students facing mental health challenges can access
+counseling and therapy sessions free of charge by scheduling appointments with licensed mental healthprofessionals. We understand the importance of providing holistic support to our students and are committed to
+promoting mental wellness alongside physical health.
+By mandating the enrollment in our health insurance policy, we aim to safeguard the health and safety of our
+student body, ensuring that they have access to quality healthcare services throughout their academic journey.
+We believe that prioritizing preventive care and providing comprehensive health insurance coverage fosters a
+supportive and thriving campus community where students can focus on their academic pursuits with peace of
+mind.
+Sports activity
+The university prides itself on offering an expansive array of sports and athletic facilities, fostering a culture of
+physical fitness, sportsmanship, and holistic well-being among its student body. With a commitment to
+supporting students' athletic aspirations and promoting a healthy lifestyle, the university provides access to
+top-notch facilities, including an excellent gymnasium, basketball courts, and over 20 other sporting venues, all
+available free of cost to students.
+At the heart of the university's athletic offerings lies its state-of-the-art gymnasium, a hub of activity where
+students can engage in a diverse range of fitness programs and activities tailored to meet their individual needs
+and interests. From cardiovascular equipment to strength training machines, the gymnasium provides students
+with the tools they need to achieve their fitness goals, whether they're aiming to build muscle, improve
+endurance, or simply stay active and healthy.
+Beyond the gym, the university boasts a series of meticulously maintained basketball courts, where students can
+hone their skills on the hardwood, compete in intramural leagues, or simply enjoy a casual pickup game with
+friends. With ample space for dribbling, shooting, and fast-paced gameplay, the basketball courts serve as a
+vibrant hub of athletic activity, fostering camaraderie and teamwork among students from all walks of life.
+In addition to basketball, the university offers a diverse array of sporting facilities, catering to a wide range of
+interests and passions. From tennis courts to swimming pools, soccer fields to track and field stadiums, students
+have access to a wealth of athletic resources, enabling them to pursue their athletic endeavors with passion and
+dedication. Whether they're aspiring athletes with dreams of competing at the collegiate level or simply looking
+to stay active and healthy, students can find an outlet for their athletic ambitions at the university.
+One of the most remarkable aspects of the university's athletic program is its commitment to providing students
+with opportunities to pursue professional careers in sports. With access to world-class coaching staff,
+state-of-the-art training facilities, and a supportive community of fellow athletes, students have the resources
+they need to excel in their chosen sport and pursue their athletic dreams to the fullest. Whether they're aspiring
+to compete at the highest levels of collegiate athletics or aiming for a career in professional sports, the university
+offers the support and guidance students need to succeed on and off the field.
+While many of the university's sporting facilities are available free of charge to students, there may be instances
+where students require access to specific equipment or resources to participate in certain sports or activities. In
+such cases, the university may charge a nominal fee to cover the cost of specialized equipment, training
+materials, or facility rentals. However, the university is committed to keeping these costs affordable and
+accessible, ensuring that all students have the opportunity to pursue their athletic passions without financial
+barriers.
+In conclusion, the university's athletic program stands as a testament to its commitment to fostering a vibrant
+and inclusive campus community, where students can pursue their athletic ambitions, develop lifelong skills,
+and cultivate a passion for physical fitness and well-being. With access to world-class facilities, professionalcoaching staff, and a supportive community of fellow athletes, students have the resources they need to thrive in
+both their academic and athletic pursuits. Whether they're shooting hoops on the basketball court, swimming
+laps in the pool, or competing on the track, students at the university are empowered to reach their full potential
+and achieve greatness in every aspect of their lives.
+Course Registration Policy
+At the beginning of each semester, students are required to register for courses through their student profile on
+the university's online portal. The available courses for registration will be notified in the student profile, and
+students are advised to register for their desired courses as soon as they become available. Early registration
+ensures that students secure a spot in their preferred courses and helps in organizing class schedules effectively.
+Students have the flexibility to make changes to their course registration up until the end of the third academic
+week of the semester. During this period, students may add, drop, or swap courses without incurring any
+financial penalties. However, any changes made to course registration after the third academic week may result
+in financial penalties, and students may not receive a refund for the course fees deposited.
+The passing grade for each course is set at 60%. Students are expected to meet the minimum passing grade to
+successfully complete the course and earn credit towards their degree. In cases where a student does not achieve
+the passing grade, they have the option to retake the same course in a subsequent semester to improve their
+grade.
+Retaking a course allows students the opportunity to strengthen their understanding of the course material and
+improve their performance. However, students should be mindful of any academic policies regarding the
+maximum number of attempts allowed for a particular course and any associated fees or restrictions.
+It's important for students to carefully consider their course selections and academic goals when registering for
+courses each semester. Academic advisors and faculty members are available to provide guidance and support to
+students in selecting courses that align with their academic interests, career aspirations, and degree
+requirements.
+By adhering to the course registration policy outlined above, students can make informed decisions about their
+academic journey, maximize their learning opportunities, and progress toward their educational goals
+effectively. The university remains committed to supporting students throughout the course registration process
+and ensuring a seamless academic experience for all.
+Career Center Services
+The university is dedicated to supporting students in their career development and transition from academia to
+the professional world. Our Career Center offers a range of free services and resources designed to help students
+explore career options, develop job search skills, and connect with prospective employers.
+1.
+Career Exploration Workshops: The Career Center organizes workshops and seminars to help students
+explore various career paths, industries, and job opportunities. These sessions cover topics such as
+resume writing, networking strategies, and job search techniques, providing students with valuable
+insights into the world of work.2.
+3.
+4.
+5.
+6.
+7.
+Individual Career Counseling: Our team of career advisors is available to meet one-on-one with
+students to discuss their career goals, assess their strengths and interests, and create personalized career
+plans. These sessions offer students tailored guidance and support as they navigate their career journey.
+Mock Interviews: To help students prepare for real-world interviews, the Career Center conducts mock
+interview sessions where students can practice their interview skills and receive feedback from
+experienced professionals. These simulated interviews simulate real-life scenarios and help students
+build confidence and improve their performance.
+Job Fairs and Networking Events: Throughout the year, the Career Center hosts job fairs, networking
+events, and employer information sessions where students can connect with recruiters, learn about job
+opportunities, and expand their professional network. These events provide valuable opportunities for
+students to make meaningful connections with prospective employers and explore career possibilities.
+Career Resources: The Career Center provides access to a wide range of resources, including online job
+boards, career guides, and industry-specific information. Students can access these resources to
+research companies, explore job postings, and stay informed about trends and developments in their
+chosen field.
+Alumni Mentorship Program: Our alumni mentorship program pairs current students with alumni who
+can offer guidance, advice, and support as students navigate their career paths. Alumni mentors provide
+valuable insights into their own career experiences and help students build valuable connections in their
+chosen fields.
+Post-Graduation Support: For graduating students, the Career Center offers continued support as they
+transition from college to career. Graduates can access job search assistance, resume reviews, and
+interview preparation services to help them secure employment and launch their professional careers.
+The Career Center encourages all students to take advantage of these valuable resources and services throughout
+their academic journey. By actively engaging with the Career Center, students can enhance their professional
+skills, explore career options, and position themselves for success in the competitive job market. With the
+support of the Career Center, our students are well-equipped to pursue their career goals and achieve their full
+potential in their chosen fields.
+International Student Support
+At our university, we are committed to fostering a diverse and inclusive campus community that welcomes
+students from around the world. We understand that international students may have unique needs and
+requirements, particularly when it comes to visas and permits for studying abroad. That's why our International
+Office is dedicated to providing comprehensive support and assistance to international students throughout the
+visa application process and their transition to campus life.
+1.
+2.
+3.
+Visa Assistance: The International Office offers personalized support to international students in
+navigating the visa application process. Our experienced advisors are available to answer questions,
+provide guidance on required documentation, and assist with completing visa application forms. We
+work closely with immigration authorities to ensure that international students have the necessary visa
+and permits to study at our university.
+Pre-Arrival Support: Prior to their arrival on campus, international students receive detailed
+information and resources to help them prepare for their journey. This includes guidance on travel
+arrangements, accommodation options, and important documents to bring. Our International Office
+remains available to address any concerns or questions that students may have as they prepare to
+embark on their study abroad experience.
+Orientation Programs: Upon arrival at the university, international students participate in
+comprehensive orientation programs designed to help them acclimate to campus life and the local
+community. Orientation sessions cover a range of topics, including academic expectations, campus
+resources, cultural adjustment, and immigration regulations. International students have the opportunity4.
+5.
+to connect with peers, faculty, and staff, and learn valuable information to support their successful
+transition to university life.
+Immigration Compliance: It is essential for international students to maintain compliance with
+immigration regulations throughout their time at the university. Our International Office provides
+ongoing support and guidance to ensure that students understand their visa requirements and
+obligations. We offer assistance with visa renewals, extensions, and other immigration-related matters
+to help international students remain in good standing with immigration authorities.
+Access to Services: International students have access to a range of support services and resources to
+help them thrive academically, socially, and personally. This includes academic advising, counseling
+services, cultural programming, and opportunities for engagement and leadership development. Our
+goal is to create a supportive and inclusive environment where all students feel valued and empowered
+to succeed.
+It's important to note that international students must have a valid visa and permits in order to join classes at the
+university. Our International Office works diligently to ensure that international students have the necessary
+documentation in place prior to the start of the semester. We are committed to providing comprehensive support
+and assistance to international students throughout their academic journey, and we welcome students from
+around the world to join our vibrant and diverse community.
