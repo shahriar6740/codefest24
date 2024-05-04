@@ -79,7 +79,7 @@ const ChatBottomBar = (props: ChatBottomBarProps) => {
 						onChange={handleInputChange}
 						name="message"
 						placeholder="Ask me anything..."
-						className=" w-full border-2 border-primary max-h-52 min-h-[100px] overflow-scroll flex items-center resize-none bg-transparent"
+						className=" w-full border-2 border-primary max-h-52 min-h-[100px] overflow-auto flex items-center resize-none bg-transparent"
 					/>
 				</motion.div>
 				<Button
