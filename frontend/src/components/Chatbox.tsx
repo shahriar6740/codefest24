@@ -17,13 +17,15 @@ const ChatBox = (props: ChatBoxProps) => {
 		setMessages(prevMessage => [...prevMessage, userPrompt]);
 		try {
 			setIsLoading(true);
-			const response = await postMessage(userPrompt);
+			const { data } = await postMessage(userPrompt);
+			const currentDate = new Date();
 			setMessages(prevMessage => [
 				...prevMessage,
 				{
-					message: response.data,
+					message: data.text,
 					from: UserType.BOT,
-					id: messagesState.length + 1
+					id: messagesState.length + 1,
+					date: `${currentDate.getHours()}:${currentDate.getMinutes()}`
 				}
 			]);
 		} catch (error) {

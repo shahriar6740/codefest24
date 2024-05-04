@@ -1,11 +1,12 @@
-import React, { useRef } from "react";
-import { Message } from "@/models/Message.ts";
-import { AnimatePresence, motion } from "framer-motion";
-import { cn } from "@/lib/utils.ts";
-import ChatBottomBar from "@/components/ChatBottomBar.tsx";
 import { Bot, User } from "lucide-react";
-import { Avatar } from "@/components/ui/avatar.tsx";
-import { UserType } from "@/models/UserType.ts";
+import React, { useRef } from "react";
+import { AnimatePresence, motion } from "framer-motion";
+
+import { cn } from "@/lib/utils";
+import { Avatar } from "@/components/ui/avatar";
+import { Message } from "@/models/Message";
+import { UserType } from "@/models/UserType";
+import ChatBottomBar from "@/components/ChatBottomBar";
 
 type ChatListProps = {
 	messages: Message[];
@@ -57,13 +58,18 @@ const ChatList = (props: ChatListProps) => {
 								"justify-start": row.from === UserType.USER,
 								"justify-end": row.from === UserType.BOT
 							})}>
-								<Avatar className="flex justify-center items-center">
-									{
-										row.from === UserType.USER ?
-											<User size={28} /> : <Bot size={28} />
-									}
-								</Avatar>
-								<span className="bg-accent p-3 rounded-md text-base max-w-lg">
+								<div className="flex flex-col items-center">
+									<Avatar className="flex justify-center items-center">
+										{
+											row.from === UserType.USER ?
+												<User size={28} /> : <Bot size={28} />
+										}
+									</Avatar>
+									<span>
+										{row.date}
+									</span>
+								</div>
+								<span className={cn("bg-accent p-3 rounded-lg text-base max-w-lg flex items-center", {})}>
                   {row.message}
                 </span>
 							</div>

@@ -24,10 +24,13 @@ const ChatBottomBar = (props: ChatBottomBarProps) => {
 
 	const handleSend = useCallback(() => {
 		if (message.trim()) {
+			const currentDate = new Date();
+
 			const newMessage: Message = {
 				id: message.length + 1,
 				from: UserType.USER,
-				message: message.trim()
+				message: message.trim(),
+				date: `${currentDate.getHours()}:${currentDate.getMinutes()}`
 			};
 			sendMessage(newMessage);
 			setMessage("");
