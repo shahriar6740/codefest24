@@ -1,0 +1,29 @@
+# Ignore development and editor files
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# Ignore any build output
+build/
+dist/
+*.js
+*.map
+*.css
+
+# Ignore any testing related files
+coverage/
+*.test.*
+
+# Ignore any temporary files
+*.swp
+*.swo
+*.swn
+
+# Ignore any version control files
+.git/
+.gitignore
+
+# Ignore any environment files
+.env
