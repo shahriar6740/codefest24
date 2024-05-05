@@ -10,9 +10,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_google_vertexai import ChatVertexAI
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
-GOOGLE_GEMINI_API = os.getenv("GOOGLE_API_KEY")
-
-GOOGLE_API_KEY = "AIzaSyAxyFEiQSLfaMS8fPGYJliRAYXdWPse6TU"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 
 def get_file_path():
