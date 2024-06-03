@@ -12,7 +12,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
-
+temp = "temporary string for storing data"
 def get_file_path():
     # Get the current directory (where run.py is located)
     current_directory = os.path.dirname(__file__)
