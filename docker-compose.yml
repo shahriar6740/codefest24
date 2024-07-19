@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    volumes:
+      - ./frontend:/frontend
+      - /frontend/node_modules
+    command: sh -c "npm install && npm run dev"
+
+    networks:
+      - monolith-network
+    depends_on:
+      - web_backend
+
+
+  web_backend:
+    build: ./backend
+
+    ports:
+      - "8532:8532"
+    command: ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8532"]
+    networks:
+      - monolith-network
+
+
+networks:
+  monolith-network:
+    driver: bridge

@@ -7,8 +7,7 @@
 __pycache__/
 
 # Ignore any local environment files
-.env
-.env.*
+
 
 # Ignore any testing related files
 tests/
@@ -21,7 +20,7 @@ __pycache__/
 
 # Ignore any dependencies installed
 venv/
-.env/
+
 
 # Ignore any temporary files
 *.swp

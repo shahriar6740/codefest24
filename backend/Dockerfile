@@ -6,14 +6,20 @@ ENV PYTHONUNBUFFERED 1
 
 WORKDIR /app
 
-COPY ./requirements.txt .
+# Copy the requirements file into the container
+COPY requirements.txt .
 
 # Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install -r requirements.txt
 
+
+# Copy the application code into the container
 COPY . .
 
-EXPOSE 8000
+## Copy the .env file
+#COPY .env .env
+
+EXPOSE 8532
 
 # Command to run the FastAPI application using Uvicorn server
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8532"]
